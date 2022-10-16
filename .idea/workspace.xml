@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52da6c7a-58dd-4e9e-b23b-1e7416d42246" name="Changes" comment="" />
+    <list default="true" id="52da6c7a-58dd-4e9e-b23b-1e7416d42246" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_3/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_3/contact/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_3/homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_3/homepage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_3/opleidingsaanbod/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_3/opleidingsaanbod/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_4/opdracht_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_4/opdracht_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_4/opdracht_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_4/opdracht_2.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +52,10 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\abdur\Documents\GitHub\webdevelopment" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abdur\Documents\GitHub\webdevelopment\labo_4" />
+      <recent name="C:\Users\abdur\Documents\GitHub\webdevelopment\labo_4\opdracht_2" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -56,7 +70,9 @@
       <workItem from="1665346792728" duration="187000" />
       <workItem from="1665347035137" duration="329000" />
       <workItem from="1665347367699" duration="9000" />
-      <workItem from="1665559313328" duration="2100000" />
+      <workItem from="1665559313328" duration="4870000" />
+      <workItem from="1665900610957" duration="4598000" />
+      <workItem from="1665905273238" duration="1171000" />
     </task>
     <servers />
   </component>
