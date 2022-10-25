@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="52da6c7a-58dd-4e9e-b23b-1e7416d42246" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_3/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_3/contact/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_3/homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_3/homepage/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_3/opleidingsaanbod/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_3/opleidingsaanbod/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_4/opdracht_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_4/opdracht_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_4/opdracht_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_4/opdracht_2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +12,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -45,6 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/abdur/Documents/GitHub/webdevelopment&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -72,7 +66,10 @@
       <workItem from="1665347367699" duration="9000" />
       <workItem from="1665559313328" duration="4870000" />
       <workItem from="1665900610957" duration="4598000" />
-      <workItem from="1665905273238" duration="1171000" />
+      <workItem from="1665905273238" duration="1270000" />
+      <workItem from="1666087867865" duration="5000" />
+      <workItem from="1666165234503" duration="3612000" />
+      <workItem from="1666706833356" duration="1686000" />
     </task>
     <servers />
   </component>
