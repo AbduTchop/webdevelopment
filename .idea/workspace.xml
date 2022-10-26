@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="52da6c7a-58dd-4e9e-b23b-1e7416d42246" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_5/opdracht_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_5/opdracht_4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_5/opdracht_6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_5/opdracht_6/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_5/opdracht_6/styles/stijl.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo_5/opdracht_6/styles/stijl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_5/opdracht_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_5/opdracht_7.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,16 +37,18 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/abdur/Documents/GitHub/webdevelopment&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/abdur/Documents/GitHub/webdevelopment/labo_6/opdracht_3&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\abdur\Documents\GitHub\webdevelopment\labo_6\opdracht_3" />
       <recent name="C:\Users\abdur\Documents\GitHub\webdevelopment" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abdur\Documents\GitHub\webdevelopment\labo_6\opdracht_1" />
       <recent name="C:\Users\abdur\Documents\GitHub\webdevelopment\labo_4" />
       <recent name="C:\Users\abdur\Documents\GitHub\webdevelopment\labo_4\opdracht_2" />
     </key>
@@ -74,7 +71,9 @@
       <workItem from="1665905273238" duration="1270000" />
       <workItem from="1666087867865" duration="5000" />
       <workItem from="1666165234503" duration="3612000" />
-      <workItem from="1666706833356" duration="3521000" />
+      <workItem from="1666706833356" duration="3853000" />
+      <workItem from="1666767889203" duration="1492000" />
+      <workItem from="1666769408813" duration="4217000" />
     </task>
     <servers />
   </component>
