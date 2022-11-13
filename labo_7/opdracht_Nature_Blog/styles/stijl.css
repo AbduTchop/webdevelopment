@@ -1,0 +1,42 @@
+body {
+    font-family: Helvetica, sans-serif;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image {
+    height: 100px;
+    background-image: url('../images/header.jpg');
+    background-repeat: no-repeat;
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+    margin-bottom: -3px;
+}
+
+nav {
+    background-color: dimgrey;
+    padding: 5px;
+}
+
+nav a {
+    color: lightgreen;
+    font-size: 12px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+article {
+    background-color: whitesmoke;
+    padding-top: 1px;
+    margin: 5px;
+}
+
+article header {
+    font-weight: bold;
+    color: dimgrey;
+    text-decoration: underline;
+    font-size: 25px;
+}
+
