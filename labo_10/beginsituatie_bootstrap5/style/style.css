@@ -1,0 +1,14 @@
+.grijs {
+    background-color: gray;
+}
+
+.lichtgrijs {
+    background-color: lightgray;
+}
+
+div {
+    border: solid white 10px;
+    height: 400px;
+}
+
+

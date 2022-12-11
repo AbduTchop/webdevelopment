@@ -1,0 +1,13 @@
+.grijs {
+    background-color: gray;
+}
+
+.lichtgrijs {
+    background-color: lightgray;
+}
+
+div {
+    height: 350px;
+    border: solid white 10px;
+    box-sizing: border-box;
+}
