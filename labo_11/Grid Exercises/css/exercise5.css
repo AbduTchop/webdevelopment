@@ -1,0 +1,38 @@
+.container{
+    display: grid;
+    gap: 20px;
+}
+
+.container .block{
+    padding:20px;
+    color: white;
+    font-size: 4em;
+    font-weight:bold;
+    text-align:center;
+}
+
+.block.block1{
+    background-color: maroon;
+
+ }
+.block.block2{
+    background-color: violet;
+}
+.block.block3{
+    background-color: royalblue;
+}
+.block.block4{
+    background-color: teal;
+}
+.block.block5{
+
+}
+.block.block6{
+
+}
+.block.block7{
+
+}
+.block.block8{
+
+}
