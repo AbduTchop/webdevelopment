@@ -1,0 +1,21 @@
+div {
+    border:2px black dashed;
+    width: 300px;
+    padding: 20px;
+}
+
+.colorSection {
+    background-color: black;
+    border: 2px solid black;
+    margin-top: 10px;
+    height: 50px;
+    width: 290px;
+}
+
+[class*="Slider"] {
+    padding-right: 10px;
+}
+
+body {
+    display: grid;
+}

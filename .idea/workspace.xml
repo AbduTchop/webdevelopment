@@ -14,9 +14,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -40,7 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/abdur/Documents/GitHub/webdevelopment/labo_2_js",
+    "last_opened_file_path": "C:/Users/abdur/Documents/GitHub/webdevelopment/labo_3_js",
     "list.type.of.created.stylesheet": "CSS",
     "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers",
     "vue.rearranger.settings.migration": "true"
@@ -48,18 +48,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\abdur\Documents\GitHub\webdevelopment\labo_3_js" />
+      <recent name="C:\Users\abdur\Documents\GitHub\webdevelopment\labo_3_js\opdracht colorpicker\test" />
       <recent name="C:\Users\abdur\Documents\GitHub\webdevelopment\labo_2_js" />
       <recent name="C:\Users\abdur\Documents\GitHub\webdevelopment\labo_2_js\Opdracht Substring" />
       <recent name="C:\Users\abdur\Documents\GitHub\webdevelopment\labo_2_js\Opdracht 6" />
-      <recent name="C:\Users\abdur\Documents\GitHub\webdevelopment\labo_2_js\Opdracht 5" />
-      <recent name="C:\Users\abdur\Documents\GitHub\webdevelopment\labo_2_js\Opdracht 4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abdur\Documents\GitHub\webdevelopment\labo_3_js\opdracht 1" />
       <recent name="C:\Users\abdur\Documents\GitHub\webdevelopment\labo_2_js\Opdracht 3" />
       <recent name="C:\Users\abdur\Documents\GitHub\webdevelopment" />
       <recent name="C:\Users\abdur\Documents\GitHub\webdevelopment\examen\images" />
       <recent name="C:\Users\abdur\Documents\GitHub\webdevelopment\examen" />
-      <recent name="C:\Users\abdur\Documents\GitHub\webdevelopment\herhalingsoefeningen" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -116,7 +116,8 @@
       <workItem from="1673980851651" duration="74000" />
       <workItem from="1674027626049" duration="8552000" />
       <workItem from="1675855966719" duration="437000" />
-      <workItem from="1676904859228" duration="7250000" />
+      <workItem from="1676904859228" duration="7365000" />
+      <workItem from="1677961366420" duration="13411000" />
     </task>
     <servers />
   </component>
