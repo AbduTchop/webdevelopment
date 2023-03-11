@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Opdracht Formulier</title>
+	<link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+<form action="" method="post">
+	<p>First name*: <label><input type="text" name="voornaam" placeholder="Your first name" autofocus="autofocus"></label></p>
+	<p>Last name*: <label><input type="text" name="achternaam" placeholder="Your last name"></label></p>
+	<p>Which sport do you train?</p>
+	<p>Running <label><input type="checkbox" name="sport"></label></p>
+	<p>Swimming <label><input type="checkbox" name="sport"></label></p>
+	<p>Rowing <label><input type="checkbox" name="sport"></label></p>
+	<p>What is your gender?</p>
+	<p><label><input type="radio" name="geslacht"></label> Male</p>
+	<p><label><input type="radio" name="geslacht"></label> Female</p>
+	<p>Favorite movie: <label><input type="text" name="film"></label></p>
+	<p>Favorite quote: <label><input type="text" name="citaat" placeholder="Write your favorite quote"></label></p>
+	<p>Password*: <label><input type="password" name="wachtwoord"></label></p>
+	<p>Favorite food: <label><select name="Favorite food">
+		<option value="Hamburger">Hamburger</option>
+		<option value="Pizza">Pizza</option>
+		<option value="Spaghetti">Spaghetti</option>
+		<option value="Frietjes">Frietjes</option>
+	</select></label></p>
+	<p><label><input type="file" name="bestand"></label></p>
+	<p>Email adress: <label><input type="text" name="email" placeholder="Enter your email adress"></label></p>
+	<p>Favorite site: <label><input type="text" name="website" placeholder="Enter the URL of your favorite website"></label></p>
+	<p>Favorite number between 1-10: <label><input type="number" min="1" max="10" name="number1"></label></p>
+	<p>Favorite number between 11-1000 <label><input type="range" min="11" max="1000" name="number2"></label></p>
+	<p>Where were you born? <label><input type="date" name="datum"></label></p>
+	<p>Belgium sip-code reg number*: <label><input type="text" min="1" max="10" maxlength="4" placeholder="9999" name="zipcode"></label></p>
+	<p>Search for something: <label><input type="text" name="zoek"></label></p>
+	<p>What is your favorite color? <label><input type="color" name="kleur"></label></p>
+	<p><label><input type="submit" value="Submit" name="verzend"></label></p>
+</form>
+<script type="text/javascript" src="scripts/index.js"></script>
+</body>
+</html>
