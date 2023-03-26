@@ -1,0 +1,21 @@
+div {
+    border:2px black dashed;
+    width: 400px;
+    padding: 20px 20px 0 2px;
+}
+
+.colorSection {
+    background-color: black;
+    border: 2px solid black;
+    margin-top: 10px;
+    height: 80px;
+    width: 80px;
+}
+
+[class*="Slider"] {
+    padding-right: 10px;
+}
+
+body {
+    display: inline-block;
+}

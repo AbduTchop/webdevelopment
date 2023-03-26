@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    background-color: #313131;
+    color: whitesmoke;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: #181818;
+    padding: 1px;
+    text-align: center;
+}
+
+.nav {
+    overflow: hidden;
+    background-color: #9d4f4f;
+    width: 100%;
+}
+
+.nav > a {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 13px 13px;
+}
+
+.nav > a:hover {
+    background-color: indianred;
+}
+
+.column {
+    width: 50%;
+    margin: auto;
+}
+
+.row {
+
+}
