@@ -123,7 +123,6 @@ const setup = () => {
         restoreHistory();
         restoreCards();
     }
-    console.log(storage);
 }
 
 window.addEventListener("load", setup);
