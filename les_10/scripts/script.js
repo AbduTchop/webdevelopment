@@ -7,6 +7,9 @@ const setup = () => {
     let url;
 
     const generateUrl = () => {
+        site = null;
+        query = null;
+        url = null;
         if (text.substring(0, 2)==="/g") {
             let rest = text.substring(3);
             site = "Google";
@@ -110,8 +113,10 @@ const setup = () => {
 
     const main = () => {
         generateUrl();
-        addCard(site, query, url);
-        storeHistory();
+        if (site!==null) {
+            addCard(site, query, url);
+            storeHistory();
+        }
     }
 
     let textbox = document.getElementById("textbox")
