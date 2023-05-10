@@ -1,0 +1,22 @@
+.table {
+    width: 300px;
+    border: 2px solid black;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    display: inline-block;
+}
+
+.row:nth-child(odd) {
+    background-color: lightgray;
+}
+
+#header {
+    background-color: black;
+    color: white;
+}
+
+.row {
+    padding: 5px 10px 10px 10px;
+    word-wrap: break-word;
+}
+

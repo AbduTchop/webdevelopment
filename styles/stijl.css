@@ -33,6 +33,7 @@ body {
     margin: auto;
 }
 
-.row {
-
+.nav > a:any-link {
+    color: whitesmoke;
+    text-decoration: none;
 }
