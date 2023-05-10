@@ -29,8 +29,25 @@ body {
 }
 
 .column {
-    width: 50%;
+    width: 20%;
     margin: auto;
+    background-color: #9d4f4f;
+    border: 5px solid black;
+    border-radius: 10px;
+    display: inline-grid;
+    padding: 10px 10px 10px 10px;
+    word-wrap: break-word;
+    position: relative;
+    left:25%;
+}
+
+.row {
+    padding-top: 20px;
+}
+
+.column > a:any-link {
+    color: #181818;
+    text-decoration: none;
 }
 
 .nav > a:any-link {
