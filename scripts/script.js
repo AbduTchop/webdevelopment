@@ -25,7 +25,7 @@ const setup = () => {
     }
 
     restoreWelcome();
-    window.addEventListener("mousemove", main);
+    window.addEventListener("click", main);
 }
 
 window.addEventListener("load", setup);
