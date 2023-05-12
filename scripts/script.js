@@ -1,9 +1,10 @@
 const setup = () => {
 
+    const welcome = document.getElementById("au");
     let welcomeKey;
-    const welcome = () => {
-        let welcome = new Audio('audio/welcome.mp3');
-        welcome.autoplay = true;
+
+    const welcomeUser = () => {
+        welcome.src = "audio/welcome.mp3";
         welcome.play().then(r => r);
         localStorage.setItem("visited", "true");
     }
@@ -19,7 +20,7 @@ const setup = () => {
     const main = () => {
         checkWelcome();
         if (welcomeKey===false) {
-            welcome()
+            welcomeUser()
         }
     }
 
