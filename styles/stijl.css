@@ -47,7 +47,10 @@ body {
 
 .column > a:any-link {
     color: #181818;
-    text-decoration: none;
+}
+
+.column > a:any-link:hover {
+    color: indigo;
 }
 
 .nav > a:any-link {
